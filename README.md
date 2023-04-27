@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-k-mathur&label=Profile%20views&color=0e75b6&style=flat" alt="s-k-mathur" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework,**
+- 🌱 I’m currently learning **Spring Framework**
 
 - 📫 How to reach me **shubhamkumarmathur16@gmail.com**
 
