@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shubham Kumar Mathur</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<img align="right" alt="GIF" src="https://github.com/deut-erium/deut-erium/blob/master/assets/computer.gif?raw=1" width="200vw" />
+# Welcome to my github! 👋
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-k-mathur&label=Profile%20views&color=0e75b6&style=flat" alt="s-k-mathur" /> </p>
 
 - 🌱 I’m currently learning **Spring Framework**
